@@ -5,4 +5,5 @@ nitrogen fertilizer wisely.
 
 The web app is local host and I will put a demo below.
 
-All necessary files are included. I train and evaluate the simple nn model and deploy that model to web app.
+All necessary files and pretrained weights are included. I train and evaluate the simple nn model and deploy that model to web app.
+Pretrained weights are in deployment/savemodel folder
